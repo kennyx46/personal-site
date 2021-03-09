@@ -1,7 +1,6 @@
 import React, { useRef, useState } from "react"
 import { ProfileType, string } from "@wkocjan/gatsby-theme-intro/src/types"
 import "@wkocjan/gatsby-theme-intro/src/components/contact-form/contact-form.css"
-// import "./contact-form.css"
 
 const ContactForm = ({ formspreeEndpoint, budget }) => {
   const [isInquiry, setIsInquiry] = useState(false)

@@ -3,7 +3,7 @@ module.exports = {
         description: "Personal page of Sergii Vorobei",
         locale: "en",
         title: "Sergii Vorobei",
-        formspreeEndpoint: "https://formspree.io/f/{your-id}",
+        formspreeEndpoint: "https://formspree.io/f/mwkwgvkw",
         showThemeLogo: false,
     },
     plugins: [
