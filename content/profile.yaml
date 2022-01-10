@@ -5,16 +5,16 @@
   image: images/my_profile.jpeg
   location: Berlin, Germany
   relocation: false
-  company: Yara Digital Hub
+  company: Vantis
   for_hire: false
   focus: Solving problems
   focus_url: ''
   about: |
-    Senior Full Stack / Tech Lead developer with more than 8 years of experience in Development. Decent expertise in Web Development with Javascript and React. Good knowledge of Backend technologies and frameworks e.g. NodeJS, Express, Ruby, Ruby on Rails, Python, Flask, Django. Highly responsible and well organized team member with leadership skills and strong obligation for prioritizing deadlines. Have about a year of team leading experience. Open and initiative for innovative and agile approach to development. Active participant in communications with clients, always ready to provide solutions and results in shortest terms.
+    Senior Full Stack / Tech Lead developer with more than 9 years of experience in Development. Decent expertise in Web Development with Javascript and React. Good knowledge of Backend technologies and frameworks e.g. Python, Flask, Django, NodeJS, Express, Ruby, Ruby on Rails. Highly responsible and well organized team member with leadership skills and strong obligation for prioritizing deadlines. Have about a year of team leading experience. Open and initiative for innovative and agile approach to development. Active participant in communications with clients, always ready to provide solutions and results in shortest terms.
   skills:
-    - JavaScript
-    - Node.js
+    - JavaScript, TypeScript
     - Python
+    - Node.js
     - DB
     - Cloud
     - CI, CD
@@ -22,8 +22,8 @@
     - React, Redux, Hooks
     - GraphQL
     - React Native
-    - Express, Nest.js
     - Django, Flask
+    - Express, Nest.js
     - PostgreSQL, MySQL, Redis
     - Docker, Kubernetes
     - AWS
