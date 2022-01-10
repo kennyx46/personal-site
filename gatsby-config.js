@@ -1,10 +1,13 @@
 module.exports = {
     siteMetadata: {
-        description: "Personal page of Sergii Vorobei",
-        locale: "en",
         title: "Sergii Vorobei",
+        description: "Sergii Vorobei - Full Stack Developer",
+        url: "https://sergiivorobei.com",
+        locale: "en",
         formspreeEndpoint: "https://formspree.io/f/mwkwgvkw",
         showThemeLogo: false,
+        image: "",
+        twitterUsername: "",
     },
     plugins: [
       {
